@@ -7,7 +7,7 @@
     This is my personal project to create a model to predict a sentence toxic or not. 
     <br />
     <br />
-    <a href="https://drive.google.com/file/d/1_7ovjM1mcIwo-BQ1TiK9G0t7g9HdaZXx/view?usp=drive_link">View Demo</a>
+    <a href="https://drive.google.com/file/d/1stDvqy2CFrwnVsmicxj4YwvRFkP9P7a9/view?usp=sharing">View Demo</a>
   </p>
 </div>
 
