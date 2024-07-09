@@ -1,0 +1,8 @@
+python >= 3.9
+dotenv
+
+tensorflow
+torch
+
+gradio 
+jinja2
